@@ -368,10 +368,16 @@
 
 ### Day 46: Jun 21, 2018
 
-**Working on:** Javascript Algorithms And Data Structures Certification (freeCodeCamp.org) / Move 100 Days Of Code log repository
+**Working on:** Javascript Algorithms And Data Structures Certification (freeCodeCamp.org) / Move 100 Days Of Code log repository (GitHub)
 
 **Today's Progress:** Studied few challenges of ES6 lessons at freeCodeCamp. / Move this log of 100 Days Of Code to new GitHub repository. And make it synced from my computer's local drive, so I can more easily update the log file from code editor(VS Code).
 
 **Thoughts:** Visual Studio Code is great. I could clone the repository, and sync it without hassle.(No additional extention install needed.)
 
+### Day 47: Jun 22, 2018
 
+**Working on:** Javascript Algorithms And Data Structures Certification (freeCodeCamp.org)
+
+**Today's Progress:** Studied ES6 lessons. (let, const, arrow function, filter, map, rest operator, spread operator...)
+
+**Thoughts:** Already passed almost a month after starting to learn at freeCodeCamp.org. Yet I couldn't do much than I expected. I'll put more effort and time to the coding practice.
