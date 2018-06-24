@@ -386,6 +386,14 @@
 
 **Working on:** Javascript Algorithms And Data Structures Certification (freeCodeCamp.org)
 
-**Today's Progress:** Studied ES6 lessons. ()
+**Today's Progress:** Studied ES6 lessons about destructuring assignment.
 
-**Thoughts:** 
+**Thoughts:** Had only short time of study due to another exam tomorrow.
+
+### Day 49: Jun 24, 2018
+
+**Working on:** Javascript Algorithms And Data Structures Certification (freeCodeCamp.org)
+
+**Today's Progress:** Studied ES6 lessons. - destructuring assignment with array, create strings using template literals.
+
+**Thoughts:** The problems were tricky. I hope I could solve the problems without hassle in the near future.
