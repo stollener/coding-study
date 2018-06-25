@@ -397,3 +397,11 @@
 **Today's Progress:** Studied ES6 lessons. - destructuring assignment with array, create strings using template literals.
 
 **Thoughts:** The problems were tricky. I hope I could solve the problems without hassle in the near future.
+
+### Day 50: Jun 25, 2018
+
+**Working on:** Javascript Algorithms And Data Structures Certification (freeCodeCamp.org)
+
+**Today's Progress:** Finished ES6 section. Learned about class(constructor, get, set), import, export.
+
+**Thoughts:** I already achieved 50% of the challenge. I'm proud that I could win over procrastination!
