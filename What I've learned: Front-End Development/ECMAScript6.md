@@ -89,4 +89,3 @@ myMathModule.add(2,3);
 myMathModule.subtract(5,3);
 // import all the contents
 ```
-

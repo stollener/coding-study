@@ -405,3 +405,12 @@
 **Today's Progress:** Finished ES6 section. Learned about class(constructor, get, set), import, export.
 
 **Thoughts:** I already achieved 50% of the challenge. I'm proud that I could win over procrastination!
+
+### Day 51: Jun 26, 2018
+
+**Working on:** Javascript Algorithms And Data Structures Certification (freeCodeCamp.org)
+
+**Today's Progress:** Started Regular Expressions section.
+
+**Thoughts:** Let's compare the characters of the text!
+
