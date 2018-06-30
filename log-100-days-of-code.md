@@ -414,3 +414,20 @@
 
 **Thoughts:** Let's compare the characters of the text!
 
+### Day 52: Jun 28, 2018
+
+**Working on:** Grasshopper - Javascript Fundamental
+
+**Today's Progress:** Finished JS fundamentals.
+
+**Thoughts:** 
+
+### Day 53-54: Jun 29-30, 2018
+
+**Working on:** Publish personal blog (Jekyll)
+
+**Today's Progress:** Customizing theme and setting SEO and meta tags, using html and css.
+
+**Thoughts:** It was great experience to publish blog with setting and customizing html and css.
+
+
