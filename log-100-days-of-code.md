@@ -430,4 +430,18 @@
 
 **Thoughts:** It was great experience to publish blog with setting and customizing html and css.
 
+### Day 55: Jul 1, 2018
 
+**Working on:** Javascript Algorithms And Data Structures Certification (freeCodeCamp.org)
+
+**Today's Progress:** Continue Regex study in freeCodeCamp.org.
+
+**Thoughts:** Steady makes me to become a programmer.
+
+### Day 56: Jul 2, 2018
+
+**Working on:** Javascript Algorithms And Data Structures Certification (freeCodeCamp.org)
+
+**Today's Progress:** Continue Regex study in freeCodeCamp.org.
+
+**Thoughts:** I'd like to finish Regex as fast as possible.

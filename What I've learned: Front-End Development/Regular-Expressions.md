@@ -77,3 +77,95 @@ let myRegex = /[a-z0-9]/ig;
 // matches all letters and numbers in jennyStr
 jennyStr.match(myRegex);
 ```
+
+* Match one or more times
+```javascript
+let difficultSpelling = "Mississippi";
+let myRegex = /s+/g; // Change this line
+let result = difficultSpelling.match(myRegex);
+```
+
+* Match zero or more times
+```javascript
+let soccerWord = "gooooooooal!";
+let gPhrase = "gut feeling";
+let oPhrase = "over the moon";
+let goRegex = /go*/;
+soccerWord.match(goRegex); // Returns ["goooooooo"]
+gPhrase.match(goRegex); // Returns ["g"]
+oPhrase.match(goRegex); // Returns null
+```
+
+* Find Characters with Lazy Matching
+```javascript
+let text = "<h1>Winter is coming</h1>";
+let myRegex = /<.*?>/; // Change this line
+let result = text.match(myRegex);
+```
+* Match Beginning or Ending String Patterns
+```javascript
+// Beginning (^)
+let firstString = "Ricky is first and can be found.";
+let firstRegex = /^Ricky/;
+firstRegex.test(firstString);
+// Returns true
+let notFirst = "You can't find Ricky now.";
+firstRegex.test(notFirst);
+// Returns false
+
+// Ending ($)
+let theEnding = "This is a never ending story";
+let storyRegex = /story$/;
+storyRegex.test(theEnding);
+// Returns true
+let noEnding = "Sometimes a story will have to end";
+storyRegex.test(noEnding);
+// Returns false
+```
+
+* Match All Letters and Numbers
+```javascript
+let longHand = /[A-Za-z0-9_]+/;
+let shortHand = /\w+/;
+let numbers = "42";
+let varNames = "important_var";
+longHand.test(numbers); // Returns true
+shortHand.test(numbers); // Returns true
+longHand.test(varNames); // Returns true
+shortHand.test(varNames); // Returns true
+// \W has opposite meaning. (not alphanumeric)
+// \d is for numeric.
+// \D is for non-digit characters.
+```
+
+* Match Whitespace
+```javascript
+let whiteSpace = "Whitespace. Whitespace everywhere!"
+let spaceRegex = /\s/g;
+whiteSpace.match(spaceRegex);
+// Returns [" ", " "]
+
+// non-whitespace
+let whiteSpace = "Whitespace. Whitespace everywhere!"
+let nonSpaceRegex = /\S/g;
+whiteSpace.match(nonSpaceRegex).length; // Returns 32
+```
+
+* Specify Upper and Lower Number of Matches
+```javascript
+let A4 = "aaaah";
+let A2 = "aah";
+let multipleA = /a{3,5}h/;
+multipleA.test(A4); // Returns true
+multipleA.test(A2); // Returns false
+```
+
+* Check for All or None
+```javascript
+let american = "color";
+let british = "colour";
+let rainbowRegex= /colou?r/;
+rainbowRegex.test(american); // Returns true
+rainbowRegex.test(british); // Returns true
+```
+
