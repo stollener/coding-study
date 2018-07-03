@@ -445,3 +445,11 @@
 **Today's Progress:** Continue Regex study in freeCodeCamp.org.
 
 **Thoughts:** I'd like to finish Regex as fast as possible.
+
+### Day 57: Jul 3, 2018
+
+**Working on:** Javascript Algorithms And Data Structures Certification (freeCodeCamp.org)
+
+**Today's Progress:** Finished Regular Expression section.
+
+**Thoughts:** Though I finished the section, I cannot understand regular expressions yet. Need to study more about the regex later.

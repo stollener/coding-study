@@ -169,3 +169,21 @@ rainbowRegex.test(american); // Returns true
 rainbowRegex.test(british); // Returns true
 ```
 
+* Reuse Patterns Using Capture Groups
+```javascript
+let repeatStr = "regex regex";
+let repeatRegex = /(\w+)\s\1/;
+repeatRegex.test(repeatStr); // Returns true
+repeatStr.match(repeatRegex); // Returns ["regex regex", "regex"]
+```
+
+* Use Capture Groups to Search and Replace
+```javascript
+let wrongText = "The sky is silver.";
+let silverRegex = /silver/;
+wrongText.replace(silverRegex, "blue");
+// Returns "The sky is blue."
+
+"Code Camp".replace(/(\w+)\s(\w+)/, '$2 $1');
+// Returns "Camp Code"
+```
