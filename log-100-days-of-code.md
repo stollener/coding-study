@@ -453,3 +453,11 @@
 **Today's Progress:** Finished Regular Expression section.
 
 **Thoughts:** Though I finished the section, I cannot understand regular expressions yet. Need to study more about the regex later.
+
+### Day 58: Jul 4, 2018
+
+**Working on:** Javascript Algorithms And Data Structures Certification (freeCodeCamp.org)
+
+**Today's Progress:** Finished debugging section. And started basic data structure section.
+
+**Thoughts:** Debugging section was easier than expected.
