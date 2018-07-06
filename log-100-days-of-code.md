@@ -469,3 +469,11 @@
 **Today's Progress:** Keep learning basic data structure section. About manipulating array.
 
 **Thoughts:** Nothing special today.
+
+### Day 60: Jul 6, 2018
+
+**Working on:** Javascript Algorithms And Data Structures Certification (freeCodeCamp.org)
+
+**Today's Progress:** Finished learning basic data structure section.
+
+**Thoughts:** Let's keep going on.

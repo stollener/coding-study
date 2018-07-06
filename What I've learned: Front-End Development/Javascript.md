@@ -32,3 +32,66 @@ let thatArray = ['basil', 'cilantro', ...thisArray, 'coriander'];
 **Test array**
 - Array.indexOf(element) : if element exists return index, else return -1
 
+### Object
+
+Collection of key-value pairs.
+
+```javascript
+let FCC_User = {
+  username: 'awesome_coder',
+  followers: 572,
+  points: 1741,
+  completedProjects: 15
+};
+let userData = FCC_User.followers;
+// userData equals 572
+let userData = FCC_User['followers']
+// userData equals 572
+```
+
+Object can be nested.
+
+```javascript
+let nestedObject = {
+  id: 28802695164,
+  date: 'December 31, 2016',
+  data: {
+    totalUsers: 99,
+    online: 80,
+    onlineStatus: {
+      active: 67,
+      away: 13
+    }
+  }
+};
+```
+
+'delete' can delete the key-value pair of the object.
+
+```javascript
+delete foods.bananas;
+```
+
+Check if an object has a property.
+
+```javascript
+users.hasOwnProperty('Alan');
+'Alan' in users;
+// both return true
+```
+
+Iterate the keys of an object.
+
+```javascript
+for (let user in users) {
+  console.log(user);
+};
+// logs:
+Alan
+Jeff
+Sarah
+Ryan
+```
+
+Generate an Array of All Object Keys with Object.keys()
+
