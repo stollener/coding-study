@@ -477,3 +477,11 @@
 **Today's Progress:** Finished learning basic data structure section.
 
 **Thoughts:** Let's keep going on.
+
+### Day 61: Jul 7, 2018
+
+**Working on:** Javascript Algorithms And Data Structures Certification (freeCodeCamp.org)
+
+**Today's Progress:** Started Basic Algorithm Scripting section.
+
+**Thoughts:** Solving problems step by step will improve my coding skills.
