@@ -485,3 +485,13 @@
 **Today's Progress:** Started Basic Algorithm Scripting section.
 
 **Thoughts:** Solving problems step by step will improve my coding skills.
+
+### Day 62: Jul 9, 2018
+
+**Working on:** Javascript Algorithms And Data Structures Certification (freeCodeCamp.org)
+
+**Today's Progress:** Did some more Basic Algorithm Scripting section.
+
+**Thoughts:** ...
+
+
