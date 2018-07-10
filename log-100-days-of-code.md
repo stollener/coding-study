@@ -494,4 +494,11 @@
 
 **Thoughts:** ...
 
+### Day 63: Jul 10, 2018
+
+**Working on:** Javascript Algorithms And Data Structures Certification (freeCodeCamp.org)
+
+**Today's Progress:** Started reading a book about HTML5 & CSS3 which is published on 2014 and with 700+ pages... And keep doing basic algorithm scripting at freeCodeCamp.
+
+**Thoughts:** I'm not sure how much the old book can help me to code better. But I'm sure I need detail knowledge of HTML and CSS more than freeCodeCamp's challenges.
 
