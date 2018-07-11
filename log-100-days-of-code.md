@@ -509,3 +509,4 @@
 **Today's Progress:** Finished basic algorithm scripting section of freeCodeCamp. And started object oriented programming section. And read some pages of the html & css book.
 
 **Thoughts:** I'd like to put more effort in the learning process. And I'll do it.
+
