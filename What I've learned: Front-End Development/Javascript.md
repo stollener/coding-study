@@ -95,3 +95,17 @@ Ryan
 
 Generate an Array of All Object Keys with Object.keys()
 
+
+## Object Oriented Programming
+
+**Properties and dot notation**
+
+```javascript
+let duck = {
+  name: "Aflac",
+  numLegs: 2
+};
+console.log(duck.name);
+// This prints "Aflac" to the console
+```
+
