@@ -510,3 +510,10 @@
 
 **Thoughts:** I'd like to put more effort in the learning process. And I'll do it.
 
+### Day 65: Jul 12, 2018
+
+**Working on:** Javascript Algorithms And Data Structures Certification (freeCodeCamp.org) / 속이 깊은 HTML5 & CSS3 (김명진, 생능출판)
+
+**Today's Progress:** Continue studying object oriented programming section. And read some pages of the html & css book.
+
+**Thoughts:** I think I want to learn too many things. I need to focus on what I'm doing now.

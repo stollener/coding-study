@@ -1,4 +1,4 @@
-# Javascript
+# Javascript Study Note
 
 ## Basic Data Structure
 
@@ -109,3 +109,56 @@ console.log(duck.name);
 // This prints "Aflac" to the console
 ```
 
+**Methods**
+
+Methods are functions of objects.
+
+```javascript
+let duck = {
+  name: "Aflac",
+  numLegs: 2,
+  sayName: function() {return "The name of this duck is " + duck.name + ".";}
+};
+duck.sayName();
+// Returns "The name of this duck is Aflac."
+```
+
+'this' means object itself.
+
+**Constructor**
+
+Define properties and behaviors which belong to the new object.
+
+```javascript
+function Bird() {
+  this.name = "Albert";
+  this.color = "blue";
+  this.numLegs = 2;
+  // "this" inside the constructor always refers to the object being created
+}
+
+let blueBird = new Bird();
+
+// Accept parameters
+function Bird(name, color) {
+  this.name = name;
+  this.color = color;
+  this.numLegs = 2;
+}
+```
+
+**instanceof function**
+
+Verify whether an object is instance of a constructor.
+
+```javascript
+let Bird = function(name, color) {
+  this.name = name;
+  this.color = color;
+  this.numLegs = 2;
+}
+
+let crow = new Bird("Alexis", "black");
+
+crow instanceof Bird; // => true
+```
