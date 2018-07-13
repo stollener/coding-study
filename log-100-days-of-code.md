@@ -517,3 +517,11 @@
 **Today's Progress:** Continue studying object oriented programming section. And read some pages of the html & css book.
 
 **Thoughts:** I think I want to learn too many things. I need to focus on what I'm doing now.
+
+### Day 66: Jul 13, 2018
+
+**Working on:** Javascript Algorithms And Data Structures Certification (freeCodeCamp.org) / Codewars
+
+**Today's Progress:** Continue studying object oriented programming section. / Signed up and struggled with a kata, but still working on it.
+
+**Thoughts:** My memory is not good. I already forgot how to use Regex.

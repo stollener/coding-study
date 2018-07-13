@@ -162,3 +162,52 @@ let crow = new Bird("Alexis", "black");
 
 crow instanceof Bird; // => true
 ```
+
+**Prototype properties**
+
+```javascript
+function Dog(name) {
+  this.name = name;
+  Dog.prototype.numLegs = 4;
+}
+
+// Set prototype to a new object
+Bird.prototype = {
+  numLegs: 2, 
+  eat: function() {
+    console.log("nom nom nom");
+  },
+  describe: function() {
+    console.log("My name is " + this.name);
+  }
+};
+```
+
+**Constructor property**
+
+```javascript
+function joinBirdFraternity(candidate) {
+  if (candidate.constructor === Bird) {
+    return true;
+  } else {
+    return false;
+  }
+}
+```
+
+Manually setting the prototype to a new object, deletes constructor property.
+So you should include constructor property in it.
+
+```javascript
+Bird.prototype = {
+  constructor: Bird, // define the constructor property
+  numLegs: 2,
+  eat: function() {
+    console.log("nom nom nom");
+  },
+  describe: function() {
+    console.log("My name is " + this.name); 
+  }
+};
+```
+
