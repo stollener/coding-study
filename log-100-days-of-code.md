@@ -525,3 +525,11 @@
 **Today's Progress:** Continue studying object oriented programming section. / Signed up and struggled with a kata, but still working on it.
 
 **Thoughts:** My memory is not good. I already forgot how to use Regex.
+
+### Day 67: Jul 14, 2018
+
+**Working on:** Javascript Algorithms And Data Structures Certification (freeCodeCamp.org)
+
+**Today's Progress:** Finished object oriented programming section. And started functional programming challenges.
+
+**Thoughts:** Studying two programming paradigm is complex, but interesting.

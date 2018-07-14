@@ -211,3 +211,112 @@ Bird.prototype = {
 };
 ```
 
+**Inheritance**
+
+Inherit behaviors from a supertype
+
+```javascript
+function Animal() { }
+Animal.prototype = {
+  constructor: Animal, 
+  eat: function() {
+    console.log("nom nom nom");
+  }
+};
+let duck = Object.create(Animal.prototype);
+let beagle = Object.create(Animal.prototype);
+duck.eat(); // Should print "nom nom nom"
+beagle.eat(); // Should print "nom nom nom" 
+```
+
+Set the Child's Prototype to an Instance of the Parent
+
+```javascript
+function Animal() { }
+Animal.prototype = {
+  constructor: Animal,
+  eat: function() {
+    console.log("nom nom nom");
+  }
+};
+function Dog() { }
+Dog.prototype = Object.create(Animal.prototype);
+let beagle = new Dog();
+beagle.eat();  // Should print "nom nom nom"
+```
+
+To reset the inherited constructor property:
+
+```javascript
+Bird.prototype.constructor = Bird;
+```
+
+Add additional methods after inheritance
+
+```javascript
+Bird.prototype.fly = function() {
+  console.log("I'm flying!");
+};
+```
+
+A mixin allows other objects to use a collection of functions.
+
+```javascript
+let flyMixin = function(obj) {
+  obj.fly = function() {
+    console.log("Flying, wooosh!");
+  }
+};
+// The flyMixin takes any object and gives it the fly method.
+let plane = {
+  model: "777",
+  numPassengers: 524
+};
+flyMixin(plane);
+```
+
+Use Closure to Protect Properties Within an Object from Being Modified Externally
+
+```javascript
+function Bird() {
+  let hatchedEgg = 10; // private property
+
+  this.getHatchedEggCount = function() { // publicly available method that a bird object can use
+    return hatchedEgg;
+  };
+}
+let ducky = new Bird();
+ducky.getHatchedEggCount(); // returns 10
+```
+
+Immediately Invoked Function Expression (IIFE)
+
+```javascript
+(function () {
+  console.log("Chirp, chirp!");
+})(); // this is an anonymous function expression that executes right away
+// Outputs "Chirp, chirp!" immediately
+```
+
+Use an IIFE to Create a Module
+
+```javascript
+let motionModule = (function () {
+  return {
+    glideMixin: function (obj) {
+      obj.glide = function() {
+        console.log("Gliding on the water");
+      };
+    },
+    flyMixin: function(obj) {
+      obj.fly = function() {
+        console.log("Flying, wooosh!");
+      };
+    }
+  }
+}) (); // The two parentheses cause the function to be immediately invoked
+
+motionModule.glideMixin(duck);
+duck.glide();
+```
+
