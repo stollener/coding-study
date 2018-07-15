@@ -533,3 +533,11 @@
 **Today's Progress:** Finished object oriented programming section. And started functional programming challenges.
 
 **Thoughts:** Studying two programming paradigm is complex, but interesting.
+
+### Day 68: Jul 15, 2018
+
+**Working on:** Javascript Algorithms And Data Structures Certification (freeCodeCamp.org)
+
+**Today's Progress:** Continue studying functional programming challenges.
+
+**Thoughts:** Functional programming is interesting, even though I know little about it yet.

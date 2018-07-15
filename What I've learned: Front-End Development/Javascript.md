@@ -320,3 +320,6 @@ motionModule.glideMixin(duck);
 duck.glide();
 ```
 
+## Functional Programming
+
+
