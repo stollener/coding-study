@@ -541,3 +541,27 @@
 **Today's Progress:** Continue studying functional programming challenges.
 
 **Thoughts:** Functional programming is interesting, even though I know little about it yet.
+
+### Day 69: Jul 16, 2018
+
+**Working on:** You Don't Know JavaScript (eBook)
+
+**Today's Progress:** Pause on freeCodeCamp today, and started reading #YDKJS (You don't know JS) as a Kindle ebook.
+
+**Thoughts:** ...
+
+### Day 70: Jul 17, 2018
+
+**Working on:** You Don't Know JavaScript (eBook)
+
+**Today's Progress:** Read few pages of YDKJS. And struggled with iframe tag.
+
+**Thoughts:** ...
+
+### Day 71: Jul 23, 2018
+
+**Working on:** Javascript Algorithms And Data Structures Certification (freeCodeCamp.org) / You Don't Know JavaScript (eBook)
+
+**Today's Progress:** Tried to solve the problem about functional programming, but failed today. Will try again tomorrow. And read little bit of YDKJS book.
+
+**Thoughts:** Got back from 5 days of pause on 100 Days of Code, as I'm feeling better.
