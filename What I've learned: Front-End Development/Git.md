@@ -10,3 +10,9 @@ git config --global user.email <my email in Github>
 ```
 git clone <copied repository address>
 ```
+3. Stage, commit, push the changes to the master branch in the Github server. If you use Two factor authentication, then you should enter access token instead of your password in the password field.
+```
+git add .
+git commit -m "Commit Messages"
+git push
+```
