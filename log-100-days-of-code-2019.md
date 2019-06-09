@@ -15,3 +15,15 @@
 **Today's Progress:** Make simple page using HTML and CSS to remind myself of coding. Getting familiar to the codes.
 
 **Thoughts:** Let's get started.
+
+**Link to the page:** [Github pages](https://stollener.github.io/hello-world)
+
+### Day 3: June 9, 2019
+
+**Working on:** HTML, CSS
+
+**Today's Progress:** Add hot trend feature "DARK MODE" to the page.
+
+**Thoughts:** Wrote javascript codes in HTML directly, so code lines look ugly now. I think it's important to start anyway.
+
+**Link to the page:** [Github pages](https://stollener.github.io/hello-world)
