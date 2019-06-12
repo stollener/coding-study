@@ -45,3 +45,13 @@
 **Today's Progress:** Watched Ajax tutorial video.
 
 **Thoughts:** Understood basic concept of the Ajax. Will utilize it when needed.
+
+### Day 6: June 12, 2019
+
+**Working on:** HTTP Tutorial of [생활코딩(Opentutorials)](https://opentutorials.org/course/3385)
+
+**Today's Progress:** Watched HTTP tutorial video. How to read the request & response contents using developer tool.
+
+**Thoughts:** The tool named Wireshark was recommended for more advanced analysis of network, and I'll save that name to learn it later.
+
+
