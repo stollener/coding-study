@@ -565,3 +565,8 @@
 **Today's Progress:** Tried to solve the problem about functional programming, but failed today. Will try again tomorrow. And read little bit of YDKJS book.
 
 **Thoughts:** Got back from 5 days of pause on 100 Days of Code, as I'm feeling better.
+
+********
+## After above days
+I completed first 100 days of challenge, and continued more 2nd round of days.
+I logged those days only on Twitter.
