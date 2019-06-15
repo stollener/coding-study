@@ -54,4 +54,10 @@
 
 **Thoughts:** The tool named Wireshark was recommended for more advanced analysis of network, and I'll save that name to learn it later.
 
+### Day 7: June 13, 2019
 
+**Working on:** Node.js Tutorial of [생활코딩(Opentutorials)](https://opentutorials.org/)
+
+**Today's Progress:** Watched Node.js tutorial video. Installed Node.js in the laptop.
+
+**Thoughts:** 
