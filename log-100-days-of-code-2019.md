@@ -61,3 +61,19 @@
 **Today's Progress:** Watched Node.js tutorial video. Installed Node.js in the laptop.
 
 **Thoughts:** 
+
+### Day 8: June 15, 2019
+
+**Working on:** Big Data 101 (Cognitive Class)
+
+**Today's Progress:** Finished Big Data 101 class.
+
+**Thoughts:** 
+
+### Day 9: June 16, 2019
+
+**Working on:** Hadoop 101 (Cognitive Class), Webscrap with Python
+
+**Today's Progress:** Finished Hadoop 101 class. And scrapped Amazon review of the product using Python and BeautifulSoup4.
+
+**Thoughts:** I'll make word cloud using R tomorrow.
