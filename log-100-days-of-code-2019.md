@@ -77,3 +77,12 @@
 **Today's Progress:** Finished Hadoop 101 class. And scrapped Amazon review of the product using Python and BeautifulSoup4.
 
 **Thoughts:** I'll make word cloud using R tomorrow.
+
+### Day 10: June 19, 2019
+
+**Working on:** Node.js Tutorial of [생활코딩(Opentutorials)](https://opentutorials.org/)
+
+**Today's Progress:** Continue learning Node.js tutorial at 생활코딩. It's a great that back-end programming can be done with Javascript.
+
+**Thoughts:** 
+
