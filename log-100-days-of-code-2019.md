@@ -86,3 +86,10 @@
 
 **Thoughts:** 
 
+### Day 11: July 11, 2019
+
+**Working on:** Watched tutorial video [Learn JavaScript - Full Course for Beginners](https://youtu.be/PkZNo7MFNFg)
+
+**Today's Progress:** Finish watching JavaScript tutorial video.
+
+**Thoughts:** No log for almost a month, but got back to log activities.
