@@ -93,3 +93,12 @@
 **Today's Progress:** Finish watching JavaScript tutorial video.
 
 **Thoughts:** No log for almost a month, but got back to log activities.
+
+### Day 11: July 22, 2019
+
+**Working on:** Read the book "Eloquent JavaScript"
+
+**Today's Progress:** Read the chapter 2. And answered(coded) to the questions.
+
+**Thoughts:** Learn both JavaScript and English language by reading the book.
+
