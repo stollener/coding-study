@@ -102,3 +102,11 @@
 
 **Thoughts:** Learn both JavaScript and English language by reading the book.
 
+### Day 12: July 23, 2019
+
+**Working on:** Read the book "Eloquent JavaScript"
+
+**Today's Progress:** Read the chapter 3 functions. Coded 3 exercises at the end of the chapter.
+
+**Thoughts:** Now writing this note with VI editor with the green font color on the black background color. Feel like I am a real hacker.
+
