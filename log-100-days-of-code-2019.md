@@ -94,7 +94,7 @@
 
 **Thoughts:** No log for almost a month, but got back to log activities.
 
-### Day 11: July 22, 2019
+### Day 12: July 22, 2019
 
 **Working on:** Read the book "Eloquent JavaScript"
 
@@ -102,11 +102,19 @@
 
 **Thoughts:** Learn both JavaScript and English language by reading the book.
 
-### Day 12: July 23, 2019
+### Day 13: July 23, 2019
 
 **Working on:** Read the book "Eloquent JavaScript"
 
 **Today's Progress:** Read the chapter 3 functions. Coded 3 exercises at the end of the chapter.
 
 **Thoughts:** Now writing this note with VI editor with the green font color on the black background color. Feel like I am a real hacker.
+
+### Day 14: July 25, 2019
+
+**Working on:** Read the book "Eloquent JavaScript"
+
+**Today's Progress:** Start reading chapter 4 Data structures.
+
+**Thoughts:** Let's master the JavaScript!
 
