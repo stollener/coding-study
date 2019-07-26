@@ -118,3 +118,11 @@
 
 **Thoughts:** Let's master the JavaScript!
 
+### Day 15: July 26, 2019
+
+**Working on:** Read the book "Eloquent JavaScript" / Codewars.com
+
+**Today's Progress:** Keep reading chapter 4 / Solve basic practices(Kata).
+
+**Thoughts:** 
+
