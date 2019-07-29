@@ -126,3 +126,9 @@
 
 **Thoughts:** 
 
+### Day 16: July 29, 2019
+
+**Working on:** Read the book "Eloquent JavaScript"
+
+**Today's Progress:** Finish reading chapter 4. Do little bit of exercise in the chapter.
+
