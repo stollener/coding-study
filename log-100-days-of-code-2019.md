@@ -132,3 +132,9 @@
 
 **Today's Progress:** Finish reading chapter 4. Do little bit of exercise in the chapter.
 
+### Day 17: July 31, 2019
+
+**Working on:** Book "Eloquent JavaScript"
+
+**Today's Progress:** Work on exercises of the chapter 4.
+
