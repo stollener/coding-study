@@ -138,3 +138,8 @@
 
 **Today's Progress:** Work on exercises of the chapter 4.
 
+### Day 18: Aug 4, 2019
+
+**Working on:** Book "Eloquent JavaScript" / Boostcourse - Web Programming (edwith)
+
+**Today's Progress:** Work on exercises of the chapter 4 and chapter 5. / And started a full stack web development course from edwith.org.
