@@ -143,3 +143,9 @@
 **Working on:** Book "Eloquent JavaScript" / Boostcourse - Web Programming (edwith)
 
 **Today's Progress:** Work on exercises of the chapter 4 and chapter 5. / And started a full stack web development course from edwith.org.
+
+### Day 19: Aug 8, 2019
+
+**Working on:** Boostcourse - Web Programming (edwith)
+
+**Today's Progress:** Finished module 1 (basic programming) 2~3 days ago, and have been studying module 2. The course is an introductory program targeting to learn full stack development using Java and Spring framework.
